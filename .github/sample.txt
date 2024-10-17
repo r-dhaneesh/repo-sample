@@ -1,2 +1,3 @@
 root
 sample
+sample-root
